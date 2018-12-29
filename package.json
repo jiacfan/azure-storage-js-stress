@@ -1,0 +1,12 @@
+{
+    "name": "jsv10-queue-perf",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "azure-storage": "^2.10.2",
+        "command-line-args": "^5.0.2",
+        "pidusage": "^2.0.17"
+    },
+    "license": "MIT"
+}
